@@ -1,0 +1,4 @@
+pip install virtualenv #enstalasyon virtualenv
+snenv\Scripts\activate #aktivasyon env
+python -m venv pwojèenv #kreyasyon anvironaman vityèl la
+
